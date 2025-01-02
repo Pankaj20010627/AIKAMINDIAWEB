@@ -50,3 +50,38 @@ For advanced usage, you have some prerequisites to install. Then you can run it 
 * **Node Installation:** [Install node js](https://nodejs.org/en/download/)
 * **Gulp Installation:** Install gulp globally from your terminal
 
+
+Now you get a `theme` folder that has all the changes you have made. You can use this folder as your main theme.
+
+<!-- reporting issue -->
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the AIKAMINDIA Template. Please search [existing issues](https://github.com/yourusername/aikamindia/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/yourusername/aikamindia/issues).
+
+<!-- support -->
+## Technical Support or Questions
+
+If you have questions or need help integrating the product, please [contact me](mailto:pankajkumar@gmail.com).
+
+<!-- licence -->
+## License
+
+Copyright (c) 2024 - Present, Designed & Developed by Pankaj Kumar Mohanta.
+
+**Code License:** Released under the [MIT](https://github.com/pankaj2762001/aikamindia/blob/main/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, and we don't have permission to share those images.
+
+<!-- resources -->
+## Resources
+
+Some third-party plugins that we used to build this template. Please check their license.
+
+* **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
+* **Jquery**: <https://jquery.com/download/>
+* **Google Fonts**: <http://fonts.google.com/>
+* **Icofont 1.0.1**: <https://icofont.com/>
+* **Shuffle**: <https://vestride.github.io/Shuffle/>
+* **Slick**: <https://kenwheeler.github.io/slick/>
+
